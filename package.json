@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ttk1/hello/issues"
   },
-  "homepage": "https://github.com/ttk1/hello#readme"
+  "homepage": "https://github.com/ttk1/hello#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
