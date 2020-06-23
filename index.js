@@ -1,3 +1,3 @@
 module.exports = () => {
-  console.log('Hello, Github Packages!');
+  console.log('Hello, GitHub Packages!');
 };
