@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hello, Github Packages!",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/ttk1/hello/issues"
   },
-  "homepage": "https://github.com/ttk1/hello#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ttk1"
-  }
+  "homepage": "https://github.com/ttk1/hello#readme"
 }
