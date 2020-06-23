@@ -1,6 +1,6 @@
 {
   "name": "@ttk1/hello",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hello, Github Packages!",
   "main": "index.js",
   "scripts": {
