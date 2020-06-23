@@ -1,3 +1,3 @@
-export const hello = () => {
+module.exports = () => {
   console.log('Hello, Github Packages!');
 };
