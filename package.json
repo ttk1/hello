@@ -1,7 +1,7 @@
 {
   "name": "@ttk1/hello",
-  "version": "1.0.4",
-  "description": "Hello, Github Packages!",
+  "version": "1.0.5",
+  "description": "Hello, GitHub Packages!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
